@@ -20,7 +20,7 @@ Desarrollado como actividad para practicar tablas HTML y estilos CSS (bordes, co
 
 ## 🖼️ Vista previa
 
-![Vista de la tabla](./tabla-operadores.png)
+![Vista de la tabla](/Tabla-operadores.png)
 
 > *Captura de pantalla de mi tabla final*
 
