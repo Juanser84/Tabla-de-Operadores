@@ -1,11 +1,7 @@
-/* ==============================================
-   IMPORTAR FUENTE MODERNA (Google Fonts)
-   ============================================== */
+/* IMPORTAR FUENTE MODERNA (Google Fonts) */
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700&display=swap');
 
-/* ==============================================
-   VARIABLES CSS (colores, sombras, bordes)
-   ============================================== */
+/* VARIABLES CSS (colores, sombras, bordes */
 :root {
     --bg-body: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     --card-bg: rgba(255, 255, 255, 0.95);
@@ -78,9 +74,7 @@ body {
     box-shadow: var(--shadow-sm);
 }
 
-/* ==============================================
-   ESTILOS DE LA TABLA (MODERNA, LIMPIA)
-   ============================================== */
+/* ESTILOS DE LA TABLA (MODERNA, LIMPIA) */
 table {
     width: 100%;
     border-collapse: separate;
@@ -186,9 +180,7 @@ tbody td:last-child {
     font-style: italic;
 }
 
-/* ==============================================
-   RESPONSIVE: se ve increíble en móviles
-   ============================================== */
+/* RESPONSIVE: se ve increíble en móviles */
 @media (max-width: 768px) {
     body {
         padding: 1rem;
