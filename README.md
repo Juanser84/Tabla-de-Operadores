@@ -25,3 +25,10 @@ Desarrollado como actividad para practicar tablas HTML y estilos CSS (bordes, co
 > *Captura de pantalla de mi tabla final*
 
 ## 📂 Estructura del proyecto
+
+Mi proyecto/
+│
+├── index.html # Estructura de la tabla
+├── README.md # Este archivo
+├── styles.css # Estilos visuales
+└── tabla-operadores.png # Captura
